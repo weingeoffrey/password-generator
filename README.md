@@ -12,4 +12,4 @@ https://weingeoffrey.github.io/password-generator/
 ## Screenshots/Gifs
 >### Sample password generation
 >
->><img src="./assets/images/password-gen-showcase" width="956" height="469" />
+>><img src="./assets/images/password-gen-showcase.gif" width="956" height="469" />
