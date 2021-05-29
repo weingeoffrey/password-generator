@@ -109,7 +109,7 @@ function generatePassword() {
   // Check the password str to see if it is in it's original state, if it is, inform the user they have to select one of the prompts
   if (charString === "") {
     alert("You must select one of the character selections");
-    return;
+    return("Invalid Input");
   }
   else {
     // Loop through the charString randomly for inputted length and concat the indivdual characters to form a password
